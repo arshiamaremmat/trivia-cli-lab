@@ -4,11 +4,11 @@ A fun and interactive Command-Line Interface (CLI) trivia game built with Node.j
 
 ## Features
 
-- 🔄 Sequential trivia questions
-- ✅ Instant feedback on answers
-- ⏱️ Timed question responses (10 seconds per question)
-- 📊 Final score summary at the end
-- 📦 Modular JavaScript structure (functions, arrays, objects, timers)
+- Sequential trivia questions
+- Instant feedback on answers
+- Timed question responses (10 seconds per question)
+- Final score summary at the end
+- Modular JavaScript structure (functions, arrays, objects, timers)
 
 ## Author
 - Arshia Maremmat
